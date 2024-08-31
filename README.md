@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhishek kumar
 - 👀 working in vocso technologies as a software developer
-- 🌱 I’m currently learning Nodejs
 
 
 <!---
